@@ -6,7 +6,7 @@ require (
 	github.com/ark-go/shippy/shippy-service-consignment v0.0.0-20211122134431-eb2ff6afcd91
 	google.golang.org/grpc v1.42.0
 )
-replace github.com/ark-go/shippy/shippy-service-consignment => ./shippy-service-consignment
+//replace github.com/ark-go/shippy/shippy-service-consignment => ./shippy-service-consignment
 //replace github.com/ark-go/shippy/shippy-service-consignment/proto/consignment
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
